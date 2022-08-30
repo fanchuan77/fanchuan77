@@ -1,4 +1,4 @@
-### 😄 Hi there, I'm fchuan, Welcome~~ 👋
+### 😄 Hi  , I'm fchuan, Welcome~~ 👋
 
 <!--
 **aceld/aceld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fchuan&theme=dracula)
 
-​                  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fchuan&theme=dracula&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fchuan&theme=dracula)
+​             ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fchuan&theme=dracula&utcOffset=8)         ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fchuan&theme=dracula)
 
