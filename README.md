@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fchuan&theme=dracula)
+![](https://raw.githubusercontent.com/fchuan-D/fchuan-D/main/profile-summary-card-output/zenburn/0-profile-details.svg)
 
-​             ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fchuan&theme=dracula&utcOffset=8)         ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fchuan&theme=dracula)
+​             ![](https://raw.githubusercontent.com/fchuan-D/fchuan-D/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)         ![](https://raw.githubusercontent.com/fchuan-D/fchuan-D/main/profile-summary-card-output/zenburn/3-stats.svg)
 
