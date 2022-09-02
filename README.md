@@ -6,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchuan-D&theme=buefy&&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fchuan-D&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fchuan-D)](https://github.com/ryo-ma/github-profile-trophy)
 
