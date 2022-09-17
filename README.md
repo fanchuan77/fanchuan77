@@ -1,6 +1,4 @@
-### 😄 Hi  , I'm fchuan, Welcome~~ 👋
-
-
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+you+can+call+me+Fan+Chuan)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchuan-D&theme=buefy&count_private=true&show_icons=true&hide=contribs,prs&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
