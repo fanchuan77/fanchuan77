@@ -2,7 +2,7 @@
 
 
 
-![skills](https://skillicons.dev/icons?i=go,java,py,c,javascript,html,css,spring,git,linux,md,mysql,redis,vscode,idea)
+![skills](https://skillicons.dev/icons?i=go,java,spring,git,linux,md,mysql,redis)
 
 
 
@@ -18,4 +18,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchuan-D&theme=buefy&count_private=true&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchuan-D&theme=buefy&&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)	
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchuan-D&theme=buefy&count_private=true&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchuan-D&theme=buefy&&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)	
